@@ -136,3 +136,8 @@ footer {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
+@media only screen and (orientation: portrait) {
+  #main {
+    width: 100%;
+  }
+}
