@@ -48,7 +48,7 @@ h2 {
 }
 /* Dropdown Button */
 .dropbtn {
-  background-color: #3a3a3a;
+  background-color: #333;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -135,6 +135,20 @@ footer {
 .dark-mode {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
+}
+
+.mailtoform {
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+}
+.mailtoform input, .mailtoform textarea {
+  border-radius: 5px;
+  border-color: #333;
+}
+.mailtointernal {
+  margin: 1%;
+
 }
 @media only screen and (orientation: portrait) {
   #main {

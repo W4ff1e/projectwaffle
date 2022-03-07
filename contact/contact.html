@@ -44,7 +44,34 @@
         --> 
         <h1>Contact Us!</h1>
         <h2>Please fill out the form below.</h2>
+
+        <div class = "mailtoform">
+            <form action="mailto:support@projectwaffle.net" method="get" enctype="text/plain">
+                <div class = "mailtointernal">
+                  <label for="name">Name:
+                    <input type="text" name="name" id="name" />
+                  </label>
+                </div>
+                <div class = "mailtointernal">
+                  <label for="email">Email:
+                    <input type="text" name="email" id="email" />
+                  </label>
+                </div>
+                <div class = "mailtointernal">
+                  <label>Comments:</label>
+                  <br />
+                  <textarea name="comments" rows="6" cols="30">Send your comments to us.</textarea>
+                </div>
+                <div class = "mailtointernal">
+                  <input type="submit" name="submit" value="Send" />
+                  <input type="reset" name="reset" value="Clear Form" />
+                </div>
+              </form>
+
+              <p>If the above form does not work please click <a href = "mailto:support@projectwaffle.net?subject=Support Request">Here.</a></p>
         </div>
+    
+    </div>
         <footer>
             <p>Copyright    ©  projectwaffle.net    All Rights Reserved</p>
         </footer>
