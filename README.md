@@ -12,7 +12,7 @@ My current website that is under construction.
   - [ ] Ad Free Options
 - [ ] Database for Novels
 - [ ] Progress Tracking
-- [ ] Account Bookmarls & Favorites
+- [ ] Account Bookmarks & Favorites
 - [ ] Bot Integration
   - [ ] Linked Profiles
   - [ ] Reading Timer
