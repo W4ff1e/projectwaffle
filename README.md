@@ -17,5 +17,6 @@ My current website that is under construction.
   - [ ] Reading Timer
   - [ ] Reading Leaderboard
 - [ ] Support for PDF Material
+- [ ] Webtoons/Comic Support
 - [ ] Suggestions
   - [ ] Text-to-Speech
