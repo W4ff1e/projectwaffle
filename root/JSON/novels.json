@@ -1,0 +1,78 @@
+{
+    "novels":
+              [
+                {
+                    "title": "Reverend Insanity",
+                    "Alt-Names": [
+                        "RI",
+                        "Daoist Gu"
+                    ],
+                    "chapters-total": 2334,
+                    "chapters-tl": 2334,
+                    "status": "On-Hold",
+                    "location": null,
+                    "genre": [
+                        "Fantasy",
+                        "Action",
+                        "Adventure",
+                        "Cultivation",
+                        "Xianxia"
+                    ] 
+                },
+                {
+                    "title": "Super Gene",
+                    "Alt-Names":[
+                        "Super God Gene",
+                        "SGG",
+                        "SG"
+                    ],
+                    "chapters-total": 3442,
+                    "chapters-tl": 3037,
+                    "status": "On-Going",
+                    "location": null,
+                    "genre": [
+                        "Fantasy", 
+                        "Sci-Fi",
+                        "Adventure",
+                        "Leveling",
+                        "Xuanhuan"
+                    ]
+                },
+                {
+                    "title": "Legendary Mechanic",
+                    "Alt-Names":[
+                        "LM",
+                        "The Transcendental Mechanic"
+                    ],
+                    "chapters-total": 3442,
+                    "chapters-tl": 3037,
+                    "status": "On-Going",
+                    "location": null,
+                    "genre": [
+                        "Fantasy", 
+                        "Sci-Fi",
+                        "Adventure",
+                        "Leveling",
+                        "Xuanhuan",
+                        "Action"
+                    ]
+                },
+                {
+                    "title": "Let Me Game in Peace",
+                    "Alt-Names":[
+                        "LMGIP"
+                    ],
+                    "chapters-total": 3442,
+                    "chapters-tl": 3037,
+                    "status": "On-Going",
+                    "location": null,
+                    "genre": [
+                        "Action", 
+                        "Fantasy",
+                        "Sci-Fi",
+                        "Leveling",
+                        "Xuanhuan"
+                    ]
+                }
+              ]
+}

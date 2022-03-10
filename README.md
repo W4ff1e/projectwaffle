@@ -4,7 +4,7 @@ My current website that is under construction.
 ### TODO ###
 - [ ] User Accounts
   - [ ] Discord oauth2
-  - [ ] Google Sign On
+  - [ ] Google Sign On (?)
 - [ ] Art Design Elements
   - [ ] Light/Dark theme
   - [ ] Customizable Fonts
@@ -12,10 +12,12 @@ My current website that is under construction.
   - [ ] Ad Free Options
 - [ ] Database for Novels
 - [ ] Progress Tracking
+- [ ] Account Bookmarks & Favorites
 - [ ] Bot Integration
   - [ ] Linked Profiles
   - [ ] Reading Timer
   - [ ] Reading Leaderboard
 - [ ] Support for PDF Material
+- [ ] Webtoons/Comic Support
 - [ ] Suggestions
   - [ ] Text-to-Speech
